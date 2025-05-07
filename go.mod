@@ -1,4 +1,4 @@
-module github.com/jstncnnr/hyprland-urgent-borders
+module github.com/jstncnnr/hyprland-urgent-windows
 
 go 1.24.1
 
